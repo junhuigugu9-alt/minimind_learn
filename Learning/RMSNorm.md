@@ -1,4 +1,4 @@
-# RMSNorma
+# RMSNorm
 
 ## torch.nn.Module作用
 torch.nnModule是RMSNorm的基类（Base Class）。是pytorch所有神经网络模块的父类。继承该父类的类，可以利用pytorch内置机制自动维护参数列表和移动数据。  
